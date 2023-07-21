@@ -1,2 +1,3 @@
 # Logic-Circuit-Simulator
-Logic Circuit Simulator taking into account the time delay of the logic gates
+Created in Racket during Methods of Programming course at the University.
+It contains a number of functions allowing you to create and simulate the logic gates.
